@@ -1,0 +1,13 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Foguete -->
+  <path d="M60 15 L45 65 L60 55 L75 65 L60 15 Z" stroke="#2563EB" stroke-width="4" fill="none" stroke-linejoin="round"/>
+  <rect x="54" y="65" width="12" height="30" rx="3" fill="#3B82F6"/>
+  <!-- Asa esquerda -->
+  <path d="M45 65 L40 85 L54 85" stroke="#60A5FA" stroke-width="3" fill="none" stroke-linejoin="round"/>
+  <!-- Asa direita -->
+  <path d="M75 65 L80 85 L66 85" stroke="#60A5FA" stroke-width="3" fill="none" stroke-linejoin="round"/>
+  <!-- Chama -->
+  <path d="M56 95 L60 115 L64 95" fill="#93C5FD"/>
+  <!-- Ponteiro do timer -->
+  <line x1="60" y1="40" x2="60" y2="20" stroke="#2563EB" stroke-width="3" stroke-linecap="round"/>
+</svg>
